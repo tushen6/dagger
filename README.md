@@ -6,7 +6,7 @@ tvbox 网络上有许多源。然后直播源无法判断其质量。 即便是�
 
 于是有了此项目：自动测试链接可用性并生成新的直播源
 
-https://raw.githubusercontent.com/tushen6/dagger/main/yaohuo.txt：经过筛选后可用的直播源
+[https://raw.githubusercontent.com/tushen6/dagger/main/yaohuo.txt]  ：经过筛选后可用的直播源
 
 每天凌晨自动筛选并提交，经过实际测试，发现一些源筛选时可用，然而可能会在一天内过期 所以依旧不能保证百分百有效，但至少提高了其可用性
 
